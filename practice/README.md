@@ -1,8 +1,4 @@
 This folder contains my Github practice work
-GitHub Practice Repository
-About This Repository
-This repository contains my practical work as I learn Git, GitHub, and Scrum in preparation for opportunities with AmaliTech.
-
 Learning Objectives
 Understand how to create local and remote repositories.
 Learn how to create, edit, and organise files.
@@ -24,6 +20,5 @@ Used git add, git commit, and git status.
 Practised synchronising local work with GitHub.
 Scrum Learning
 I am studying Scrum to understand how teams organise work, collaborate, and deliver value incrementally.
-
 Progress
 I will continue updating this repository as I learn new Git, GitHub, and Scrum concepts.
